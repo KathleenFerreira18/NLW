@@ -9,5 +9,5 @@ Projeto construído no Evento Next Level Week da Rocketseat.
 - CSS
 - Git e GitHub
 
-✉ Contato 
+✉ Contato: 
 ferreirakathleen219@gmail.com
